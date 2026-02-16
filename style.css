@@ -29,7 +29,7 @@ body{
     max-height: 500px;
     min-width: 60vw;
     height: 50vh;
-    min-height: 300px;
+    min-height: 370px;
     font-family: sans-serif;
     margin: 50px;
 }
@@ -88,3 +88,4 @@ button{
 .asd{
     gap: 0px;
 }
+
